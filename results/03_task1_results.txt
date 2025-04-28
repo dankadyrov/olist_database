@@ -1,0 +1,14 @@
+ product_category_name | review_count 
+-----------------------+--------------
+ health_beauty         |          245
+ sports_leisure        |          224
+ bed_bath_table        |          208
+ computers_accessories |          160
+ housewares            |          154
+ furniture_decor       |          149
+ watches_gifts         |          146
+ auto                  |          111
+ toys                  |           96
+ telephony             |           94
+(10 rows)
+

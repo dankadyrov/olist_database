@@ -1,0 +1,14 @@
+       category        | cancellation_count 
+-----------------------+--------------------
+ sports_leisure        |                 51
+ housewares            |                 49
+ computers_accessories |                 46
+ furniture_decor       |                 36
+ health_beauty         |                 36
+ toys                  |                 34
+ auto                  |                 30
+ watches_gifts         |                 21
+ baby                  |                 20
+ garden_tools          |                 19
+(10 rows)
+
